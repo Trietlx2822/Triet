@@ -1,0 +1,33 @@
+D:\Project WD2\QLBanGiay\QLBanGiay\bin\Debug\QLBanGiay.exe.config
+D:\Project WD2\QLBanGiay\QLBanGiay\bin\Debug\QLBanGiay.exe
+D:\Project WD2\QLBanGiay\QLBanGiay\bin\Debug\QLBanGiay.pdb
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.csprojResolveAssemblyReference.cache
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.Form1.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_Giaodien.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.Properties.Resources.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.csproj.GenerateResource.Cache
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.exe.licenses
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.exe
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.pdb
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_themnguoi.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_doimk.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_dangnhap.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_saoluu.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_phuchoi.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_UpdateNhanVien.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_updateSP.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_UpdateKhachhang.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_HoaDon.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_PhieuChuyen.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\bin\Debug\rpt_hoadon.rdlc
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_inHD.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\RdlCompile.cache
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\RdlCompile.compiled
+D:\Project WD2\QLBanGiay\QLBanGiay\bin\Debug\rpt_phieuchuyen.rdlc
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_InPhieuChuyen.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_thongkedoanhthu.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_lienhe.resources
+D:\Project WD2\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.frm_SPdcban.resources
+D:\BackupFile Đề tài\QLBanGiay\QLBanGiay\bin\Debug\QLBanGiay.exe.config
+D:\BackupFile Đề tài\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.exe
+D:\BackupFile Đề tài\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.pdb
